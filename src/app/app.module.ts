@@ -31,7 +31,6 @@ import { RegistrationComponent } from './components/registration/registration.co
     RegistrationComponent
   ],
   imports: [
-
     BrowserModule,
     AppRoutingModule,
     FormsModule,
